@@ -1,0 +1,25 @@
+h1 {
+  color:red;
+}
+
+p {
+  color:blue;
+}
+
+div {
+  background-color: teal;
+  width: 20%;
+  height: 300px;
+  margin: 30px;
+  padding: 80px;
+  border-radius: 3px solid blue;
+}
+table{
+  border: 1px solid black;
+  border-collapse: collapse;
+  width: 50%;
+}
+
+th,td{
+  border: 1px solid black;
+}
